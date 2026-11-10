@@ -1,0 +1,1 @@
+{"ts":1768471205.0,"uid":"CSyn0002","id.orig_h":"192.0.2.11","id.orig_p":40022,"id.resp_h":"198.51.100.21","id.resp_p":22,"note":"Sample::Synthetic_Notice","msg":"Synthetic notice for fixture testing","actions":["Notice::ACTION_LOG"]}

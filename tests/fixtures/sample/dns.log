@@ -1,0 +1,2 @@
+{"ts":1768471202.01,"uid":"CSyn0003","id.orig_h":"2001:db8::10","id.orig_p":55000,"id.resp_h":"2001:db8::53","id.resp_p":53,"proto":"udp","trans_id":4242,"query":"sample.example.test","qtype_name":"AAAA","rcode_name":"NOERROR"}
+{"ts":1768471203.0,"uid":"CSyn0004","id.orig_h":"192.0.2.12","id.orig_p":50000,"id.resp_h":"192.0.2.53","id.resp_p":53,"proto":"udp","trans_id":77,"query":"no-such-name.example.test","qtype_name":"A","rcode_name":"NXDOMAIN"}
