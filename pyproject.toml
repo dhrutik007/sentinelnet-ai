@@ -9,6 +9,7 @@ description = "Defensive network intrusion detection and security analytics plat
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
+authors = [{ name = "Dhrutik" }]
 dependencies = ["pydantic>=2.6,<3"]
 
 [project.optional-dependencies]

@@ -50,5 +50,8 @@ No persistence, queue, API or UI. Real Zeek/Suricata output has not yet been tes
 tool output from a legally redistributable PCAP is a planned task. `docs/schema.sql`
 has not been run against PostgreSQL.
 
+## Author
+Created and maintained by **Dhrutik** ([@dhrutik007](https://github.com/dhrutik007)).
+
 ## Licence
 MIT. See [LICENSE](LICENSE).

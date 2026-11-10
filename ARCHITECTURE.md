@@ -49,7 +49,7 @@ PostgreSQL, Redis (Streams), React + Vite + TypeScript + Tailwind + Recharts, Ng
 Zeek and Suricata (current supported releases). Exact versions will be pinned and
 justified in Phase 3/8 after checking each against current release notes; this
 document will then list them. FastAPI/SQLAlchemy were not installable in the
-build sandbox (no package network), which is why Phase 1 uses pydantic + stdlib only.
+development environment I used (no package network), which is why Phase 1 uses pydantic + stdlib only.
 
 Zeek JSON field names vary by version/config (flat `id.orig_h` vs nested `id`,
 epoch vs ISO `ts`); the parser accepts both and tolerates missing optional fields.
